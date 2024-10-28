@@ -2,4 +2,4 @@
 - SWI-Prolog version 9.2.7 for x64-win64
 
 # Terminal
-c:\\>swipl
+c:\\>swipl test.pl
